@@ -24,3 +24,9 @@ Now, even though this may sound discouraging, I think it's worth taking a look a
 
 ### References for whenever you get to code (you must have previous knowledge).
   - Code examples for GNU Assembler: https://cs.lmu.edu/~ray/notes/gasexamples/
+
+
+### Other.
+Suggestions are welcome!
+
+Everything here is open for everyone.
