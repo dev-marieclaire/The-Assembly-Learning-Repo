@@ -1,3 +1,6 @@
+; I haven't set-up MASM properly in my machine
+; The next example is from Wikipedia.
+
 .model small
 .stack 100h
 
