@@ -23,6 +23,7 @@ Now, even though this may sound discouraging, I think it's worth taking a look a
   - Same book but in the 6th, 7th or 8th edition for more modern features and hardware.
 
 ### References for whenever you get to code (you must have previous knowledge).
+  - https://github.com/mschwartz/assembly-tutorial/
   - Code examples for GNU Assembler: https://cs.lmu.edu/~ray/notes/gasexamples/
 
 
